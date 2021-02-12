@@ -41,6 +41,7 @@ Arama sonucunda öğrenci bulunmamışsa, “KAYIT BULUNAMADI” mesajı verilec
 Her iki durum sonucunda da, klavyeden ‘M’ tuşu ile ana menüye dönüş sağlanacaktır.
 
 ![title](Images/OgrenciArama.png)
+<br>
 ![title](Images/list.png)
 
 6. <u><b>RAPOR YAZDIR</b></u><br>
