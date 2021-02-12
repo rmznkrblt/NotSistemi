@@ -1,0 +1,7 @@
+Toplam Ogrenci Sayisi = 84
+
+Vize Ortalamasi = 48.06
+Final Ortalamasi = 56.67
+Odev1 Ortalamasi = 85.57
+Odev2 Ortalamasi = 58.05
+Donem Sonu Not Ortalamasi = 59.10
